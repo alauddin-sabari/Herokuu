@@ -1,6 +1,6 @@
 ## clone git repository
 https://elements.heroku.com/buttons/christopherfrance/streamlit-on-heroku
-# Note : web: gunicorn obesi.wsgi --log-file     obesi is the settings.py contained or project file name not domain/app name
+## Note : web: gunicorn obesi.wsgi --log-file     - obesi is the settings.py contained or project file name not domain/app name
 ## pipenv install package name [with virtualenv]
 ##-----------
 ## pip freeze > requirements.txt
