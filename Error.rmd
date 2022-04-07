@@ -1,0 +1,2 @@
+### heroku login
+### heroku logs --app d4dd1  --to see the details of error why application is not running
